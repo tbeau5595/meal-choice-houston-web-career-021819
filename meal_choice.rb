@@ -2,5 +2,6 @@
 # passed into it and defaults to meat.
 
 def meal_choice(meal = "meat")
+  meal
   puts meal
 end
